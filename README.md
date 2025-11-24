@@ -11,3 +11,31 @@ The top panel highlights the most important monthly KPIs:
 -	Total Quantity Sold: 36,469
 -	MoM Comparison: Metrics show % increase or decrease vs. last month
 
+## Calendar & Filters
+-	A dynamic monthly calendar allows users to select any day to view daily sales performance.
+-	Month slicer enables comparing different months.
+-	Additional filters are included for deep-dive analysis.
+________________________________________
+
+## Visuals Included
+### 1. Sales Trend Over Time
+-Daily sales trend across the selected month
+-Average daily sales line for comparison
+### 2. Sales by Product Category
+-Categories such as Coffee, Tea, Bakery, Drinking Chocolate, etc.
+-Shows contribution % and total revenue share
+3. Top 10 Best-Selling Products
+-Highlights highest-performing items
+-Helps identify demand patterns and customer preferences
+4. Sales by Weekday vs. Weekend
+-Donut chart comparing revenue split
+-Useful for staffing & promotional planning
+5. Sales by Store Location
+-Performance of multiple stores (e.g., Brooklyn, Astoria, Manhattan)
+-Helps identify top-performing locations
+6. Sales by Day & Hour Heatmap
+- Displays customer footfall and sales volume throughout the day
+-Shows peak hours for operations optimization
+________________________________________
+
+
