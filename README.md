@@ -37,5 +37,13 @@ The top panel highlights the most important monthly KPIs:
 - Displays customer footfall and sales volume throughout the day
 - Shows peak hours for operations optimization
 
+## Purpose of the Dashboard
+This dashboard helps the business:
+-	Monitor daily/weekly/monthly revenue
+-	Identify best-selling products
+-	Understand customer buying patterns
+-	Compare store performance
+-	Improve operational & marketing decisions
+-	Track trends and seasonal variations
 
 
